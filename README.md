@@ -1,4 +1,4 @@
-# omen-space
+# Omen Space
 Omen Legal Documentation and Privacy Policy
 
 # Documentos Legales de Omen
